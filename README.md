@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/ichi-nakashima/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayatothos&count_private=true&show_icons=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ichi-nakashima&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/ichi-nakashima/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayatothos" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichi-nakashima" />
 </a>
